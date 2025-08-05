@@ -6,9 +6,7 @@
 
 📍 Based in **Alexandria, Egypt**  
 ✉️ Reach me at: [omarwael012@gmail.com](mailto:omarwael012@gmail.com)  
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=OmarWael22.OmarWael22&left_text=Profile%20Views)
 
----
 
 ## 🛠️ Skills
 
@@ -24,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" width="36" height="36"/>
 </p>
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -37,7 +35,7 @@
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
