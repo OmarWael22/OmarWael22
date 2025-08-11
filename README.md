@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omar Wael
 
-🎓 I'm a fresh graduate from the **Faculty of Engineering, Communication and Electronics Department, Alexandria University**.  
+🎓 I'm a fresh graduate from the **Faculty of Engineering, Alexandria University**.  
 💻 Currently, I'm a **Full Stack (MERN Stack) Trainee** at the **Information Technology Institute (ITI)**.  
 🌐 I'm deeply passionate about **web development**, eager to build scalable and user-friendly web applications, and always exploring new technologies to grow as a developer.
 
